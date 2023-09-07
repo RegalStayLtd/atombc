@@ -1,0 +1,121 @@
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("../fonts/flaticon_mycollection.ttf?05996fe57f1305bcc7e1ccc3b26dfc69") format("truetype"), url("../fonts/flaticon_mycollection.woff?05996fe57f1305bcc7e1ccc3b26dfc69") format("woff"), url("../fonts/flaticon_mycollection.woff2?05996fe57f1305bcc7e1ccc3b26dfc69") format("woff2"), url("../fonts/flaticon_mycollection.eot?05996fe57f1305bcc7e1ccc3b26dfc69#iefix") format("embedded-opentype"), url("../fonts/flaticon_mycollection.svg?05996fe57f1305bcc7e1ccc3b26dfc69#flaticon_mycollection") format("svg");
+}
+
+i[class^="flaticon-"]:before,
+i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    vertical-align: -0.125em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-architecture:before {
+    content: "\f101";
+}
+
+.flaticon-drawing:before {
+    content: "\f102";
+}
+
+.flaticon-drafting:before {
+    content: "\f103";
+}
+
+.flaticon-draft:before {
+    content: "\f104";
+}
+
+.flaticon-drawing-1:before {
+    content: "\f105";
+}
+
+.flaticon-blueprint:before {
+    content: "\f106";
+}
+
+.flaticon-solar-energy:before {
+    content: "\f107";
+}
+
+.flaticon-design:before {
+    content: "\f108";
+}
+
+.flaticon-city:before {
+    content: "\f109";
+}
+
+.flaticon-blueprint-1:before {
+    content: "\f10a";
+}
+
+.flaticon-blueprint-2:before {
+    content: "\f10b";
+}
+
+.flaticon-interior-design:before {
+    content: "\f10c";
+}
+
+.flaticon-project:before {
+    content: "\f10d";
+}
+
+.flaticon-document:before {
+    content: "\f10e";
+}
+
+.flaticon-urban-planning:before {
+    content: "\f10f";
+}
+
+.flaticon-planning:before {
+    content: "\f110";
+}
+
+.flaticon-floor:before {
+    content: "\f111";
+}
+
+.flaticon-office-building:before {
+    content: "\f112";
+}
+
+.flaticon-house:before {
+    content: "\f113";
+}
+
+.flaticon-3d:before {
+    content: "\f114";
+}
+
+.flaticon-computer:before {
+    content: "\f115";
+}
+
+.flaticon-maintenance:before {
+    content: "\f116";
+}
+
+.flaticon-blueprint-3:before {
+    content: "\f117";
+}
+
+.flaticon-office-building-1:before {
+    content: "\f118";
+}
+
+.flaticon-architecture-1:before {
+    content: "\f119";
+}
+
+.flaticon-right-up:before {
+    content: "\f11a";
+}
