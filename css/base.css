@@ -1,20 +1,3 @@
-/* ------------------------------------------------
-  Project:   Cove - Architecture & Interior WordPress Theme
-  Author:    ThemeHt
------------------------------------------------- */
-
-/* ------------------------
-    Table of Contents
-
-  1. General
-  2. Transition
-  3. Pre Loader
-  4. Scroll to Top
-  5. Header
-  6. Footer
-  7. Page Title
-
- 
 /* ------------------------
     General
 ------------------------*/
@@ -106,6 +89,13 @@ input,
   right: 0;
   top: 0;
   z-index: 99999;
+  transform: scale(2);
+  transform-origin: center;
+}
+@media screen and (max-width: 767px) {
+  .atom {
+    transform: none; /* Remove the scaling for smaller screens */
+  }
 }
 .ring {
   border-radius: 50%;
