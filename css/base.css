@@ -324,7 +324,7 @@ input,
 .scroll-top::after {
   position: absolute;
   font-family: "bootstrap-icons";
-  content: "\F145";
+  content: url("../images/atom.png");
   text-align: center;
   line-height: 60px;
   font-size: 30px;
@@ -347,7 +347,7 @@ input,
 .scroll-top::before {
   position: absolute;
   font-family: "bootstrap-icons";
-  content: "\F145";
+  content: url("../images/atom.png");
   text-align: center;
   line-height: 60px;
   font-size: 30px;
