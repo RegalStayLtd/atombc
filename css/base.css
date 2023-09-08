@@ -401,7 +401,7 @@ input,
 /*--navigation--*/
 
 .navbar-brand.logo {
-  background: var(--themeht-primary-color);
+  /* background: var(--themeht-primary-color); */
   padding: 30px;
   display: flex;
   height: 100%;
@@ -516,8 +516,8 @@ input,
   .navbar-nav .nav-link:focus,
   .navbar-nav .nav-link:hover,
   .navbar-nav .show > .nav-link {
-    color: var(--themeht-text-color);
-    box-shadow: inset 200px 0 0 0 var(--themeht-primary-color);
+    color: #fff;
+    /* box-shadow: inset 200px 0 0 0 var(--themeht-primary-color); */
   }
   .navbar-nav .nav-link.active.dropdown-toggle::after,
   .navbar-nav .nav-link.dropdown-toggle:hover::after,
